@@ -6,6 +6,8 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "codeat3/blade-ant-design-icons": "^2.0",
+        "codeat3/blade-carbon-icons": "^2.22",
         "laravel/framework": "^11.0",
         "laravel/tinker": "^2.9"
     },
